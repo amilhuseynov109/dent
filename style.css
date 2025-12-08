@@ -1,0 +1,380 @@
+
+body{
+    margin: 0;
+    padding:0 ;
+}
+.bash1{
+    background-color: #F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+.head i{
+    color: #01aeef;
+}
+.bash2{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.dento2 button{
+    background-color: #01aeef;
+    color: #fff;
+    height: 45px;
+    border-radius: 5px;
+    border-color: #fff;
+}
+.dento2 i{
+    color: #01aeef;
+}
+.slider {
+    background: url('../img/dental.jpg');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.bgcolor {
+    background: rgba(6, 61, 129, 0.418);
+}
+
+.slider-text {
+    text-align: center;
+    padding: 100px 5px;
+    margin: 0 10px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+
+}
+
+.slider-text h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.slider-text p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.buttons a {
+    line-height: 40px;
+    display: inline-block;
+    background: #00aeef;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+    width: 40%;
+    height: 40px;
+    transition: .3s ease;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+
+.buttons .contact {
+    background: transparent;
+    border: 2px solid #00aeef;
+    color: #00aeef;
+}
+
+.buttons .start:hover {
+    background: transparent;
+    border: 2px solid #00aeef;
+    color: #00aeef;
+}
+.about .img img{
+    padding-top: 50px;
+    width: 100%;
+    height: 100%;
+}
+.about1 h1{
+    padding-top: 20px;
+    padding-left: ;
+}
+.hr1 hr{
+    background-color: #00aeef;
+    height: 5px;
+    width: 22%;/**/
+    text-align: left;
+}
+.A1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hr2 hr{
+    background-color: #00aeef;
+    height: 8px;
+    width: 260px;/**/
+    text-align: left;
+}
+.A2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hr3 hr{
+    background-color: #00aeef;
+    height: 8px;
+    width: 200px;/**/
+    text-align: left;
+}
+
+.A3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hr4 hr{
+    background-color: #00aeef;
+    height: 8px;
+    width: 290px;/**/
+    text-align: left;
+}
+.blok .blok1{
+    text-align: center;
+    padding-top: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.blok .blok1 i{
+    font-size: 60px;
+    color:#49aae3 ;
+}
+.blok .blok2{
+    text-align: center;
+    padding-top: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.blok .blok2 i{
+    font-size: 60px;
+    color:#49aae3 ;
+}
+.blok .blok3{
+    text-align: center;
+    padding-top: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.blok .blok3 i{
+    font-size: 60px;
+    color:#49aae3 ;
+}
+.blok .blok4{
+    text-align: center;
+    padding-top: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+.blok .blok4 i{
+    font-size: 60px;
+    color:#49aae3 ;
+}
+/* Our Services  */
+#OurService{
+    margin-top: 60px;
+    /* padding: 50px 10px; */
+    background: url(../img/dent1.jpg);
+    /* height: 900px; */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+.bg-color{
+    background: linear-gradient(to right, #2c455d, #00012c69);
+    /* height: 900px; */
+    padding: 10px;
+}
+.about2 h1{
+    padding-top: 20px;
+    color: white;
+    font-family: "Montserrat" sanserif;
+    
+}
+.hr6 hr{
+    background-color: #00aeef;
+    height: 5px;
+    width: 22%;/**/
+    text-align: left;
+    
+}
+
+ .service-icon {
+    padding-top: 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+
+.service-icon ul {
+    list-style: none;
+    padding-left: -20px;
+}
+.icon1 img{
+    font-size: 40px;
+}
+.service-video iframe{
+    width: 100%;
+    height:250px;
+    border-radius: 10px;
+}
+.pricing h1{
+    text-align: center;
+}
+.pricing hr{
+    text-align: center;
+    width: 18%;
+    height: 3px;
+    background-color:#1e90ff ;
+}
+.pricing table {
+    border: none;
+    margin: auto;
+}
+.pricing table tr th{
+    background-color: #1e90ff;
+    height:40px;
+    text-align: left;
+    color: #fff;
+    border: none;
+    padding-left: 5px;
+}
+.pricing table tr td{
+    border: none;
+    background-color:#f2f1f1 ;
+    padding-left: 5px;
+    height: 50px;
+}
+.button{
+    text-align: center;
+    padding-top: 30px;
+}
+.read{
+    padding: 10px 10px;
+    background: rgb(64, 156, 243);
+    border: 1px solid rgb(64, 156, 243);
+    color: white;
+    border-radius: 2px;
+}
+.book{
+    margin-top: 30px;
+    background: url(img/dent1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* height: 900px; */
+}
+.book h1{
+    text-align: center;
+    color: white;
+}
+.book hr{
+    text-align: center;
+    width: 18%;
+    height: 3px;
+    background-color:#1e90ff ;
+}
+.form{
+    display: inline-block;
+    text-align: center;
+}
+.info{
+    font-style: italic;
+    width: 88.5%;
+    background: rgba(0, 0, 0, 0.524);
+    border: none;
+    margin-top: 10px;
+    padding: 20px;
+}
+.info1{
+    font-style: italic;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.524);
+    border: none;
+    margin-top: 10px;
+    padding: 20px;
+    color: #fff;
+}
+.textarea{
+    font-style: italic;
+    width: 88.5%;
+    background: rgba(0, 0, 0, 0.524);
+    border: none;
+    margin-top: 10px;
+    padding: 20px;
+}
+.button1 button{
+    margin-left: 110px;
+    text-align: center;
+    margin-top: 20px;
+    border: 0px solid white;
+    width: 130px;
+    height: 40px;
+    background-color:#409cf3;
+    color: white;
+}
+.our-dentist h1{
+    text-align: center;
+    color: black;
+}
+.our-dentist hr{
+    text-align: center;
+    width: 18%;
+    height: 3px;
+    background-color:#1e90ff ;
+}
+.bg-color1{
+    background: linear-gradient(to right, #2c455d, #00012c69);
+    /* height: 900px; */
+    /* padding: 10px; */
+}
+.dentist1{
+    background: url(img/9.png.webp);
+    height: 430px;
+    text-align: center;
+    color: white;
+}
+.bg-color1{
+    background: linear-gradient(to right, #2c455d, #00012c69);
+    /* height: 900px; */
+    /* padding: 10px; */
+}
+.dentist2{
+    background: url(img/10.png.webp);
+    height: 430px;
+    text-align: center;
+    color: white;
+}
+.bg-color1{
+    background: linear-gradient(to right, #2c455d, #00012c69);
+    /* height: 900px; */
+    /* padding: 10px; */
+}
+.dentist3{
+    background: url(img/11.png.webp);
+    height: 430px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
