@@ -359,6 +359,7 @@ body{
     height: 430px;
     text-align: center;
     color: white;
+    margin-top:40px;
 }
 .bg-color1{
     background: linear-gradient(to right, #2c455d, #00012c69);
@@ -370,6 +371,63 @@ body{
     height: 430px;
     text-align: center;
     color: white;
+    margin-top: 40px;
+}
+/* Comment */
+.Comment{
+    margin-top: 30px;
+    background: url(img/dent1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: ;
+}
+.Comment .img img{
+    border-radius: 50%;
+    margin: 40px 20px;
+}
+.comment-text p{
+    font-family: Arial;
+    color: white;
+    text-align: left;
+    font-style: italic;
+} 
+.p1{
+    color: white;
+}
+/* News */
+.head-news h1{
+    text-align: center;
+    color: black;
+}
+.head-news hr{
+    text-align: center;
+    width: 18%;
+    height: 3px;
+    background-color:#1e90ff ;
+}
+.news1{
+    background-color:#f4f4f4;
+}
+.news1 img{
+    width:100% ;
+}
+.news-icon1 i{
+    color: blue;
+}
+.news2{
+    background-color:#f4f4f4;
+    margin-top: 40px;
+}
+.news2 img{
+    width:100% ;
+}
+.news3{
+    background-color:#f4f4f4;
+    margin-top: 40px;
+}
+.news3 img{
+    width:100% ;
 }
 
 
